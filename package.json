@@ -1,5 +1,5 @@
 {
-  "name": "process-interface",
+  "name": "@allnulled/process-interface",
   "version": "1.0.0",
   "main": "process-interface.js",
   "scripts": {
