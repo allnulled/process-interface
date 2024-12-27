@@ -1,0 +1,12 @@
+{
+  "name": "process-interface",
+  "version": "1.0.0",
+  "main": "process-interface.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["process", "interface"],
+  "author": "allnulled",
+  "license": "WTFPL",
+  "description": "Basic process interface with class: ProcessManager, Process and ProcessError."
+}
